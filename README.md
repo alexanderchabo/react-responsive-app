@@ -17,5 +17,5 @@ Follow https://github.com/Microsoft/TypeScript-React-Starter
 
 ## Instructions
 
-- Run with yarn start
+- Run with "yarn start" in the root folder
 - ...
